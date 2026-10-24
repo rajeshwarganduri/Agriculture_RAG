@@ -1,0 +1,7 @@
+streamlit
+chromadb
+sentence-transformers
+rank-bm25
+PyYAML
+langchain-core
+langchain-ollama

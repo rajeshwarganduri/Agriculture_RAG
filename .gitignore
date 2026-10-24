@@ -1,0 +1,11 @@
+@'
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+storage/chroma/
+.pytest_cache/
+.vscode/
+'@ | Set-Content .gitignore

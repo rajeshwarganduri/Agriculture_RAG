@@ -1,0 +1,64 @@
+[
+  {
+    "question": "How can I improve soil health before sowing?",
+    "relevant_docs": [
+      "soil/soil_health.md"
+    ]
+  },
+  {
+    "question": "What are the main steps of integrated pest management?",
+    "relevant_docs": [
+      "pest_management/integrated_pest_management.md"
+    ]
+  },
+  {
+    "question": "What information is needed to identify a crop disease?",
+    "relevant_docs": [
+      "plant_health/plant_disease.md",
+      "field_diagnosis/crop_question_diagnosis.md"
+    ]
+  },
+  {
+    "question": "How should I plan irrigation efficiently?",
+    "relevant_docs": [
+      "water_management/irrigation_water_management.md"
+    ]
+  },
+  {
+    "question": "How can I choose a crop and plan crop rotation?",
+    "relevant_docs": [
+      "crop_management/crop_selection.md"
+    ]
+  },
+  {
+    "question": "What should I check before sowing seeds?",
+    "relevant_docs": [
+      "crop_management/seed_treatment_and_sowing.md"
+    ]
+  },
+  {
+    "question": "How can weather information help farm planning?",
+    "relevant_docs": [
+      "weather/weather_and_farm_planning.md"
+    ]
+  },
+  {
+    "question": "How can I reduce post-harvest storage losses?",
+    "relevant_docs": [
+      "post_harvest/post_harvest_storage.md"
+    ]
+  },
+  {
+    "question": "Where should farmers verify current scheme eligibility?",
+    "relevant_docs": [
+      "extension/farmer_scheme_and_extension.md"
+    ]
+  },
+  {
+    "question": "How should I make fertilizer decisions?",
+    "relevant_docs": [
+      "soil/nutrient_management.md",
+      "soil/soil_health.md"
+    ]
+  }
+]
